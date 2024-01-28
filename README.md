@@ -1,7 +1,7 @@
 
 
 [![MasterHead](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
-<h1 align="center">👋, I'm Shameer</h1>
+<h1 align="center">Hi, I'm Shameer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshameermukhar&label=Profile%20views&color=0e75b6&style=flat" alt="iamshameermukhar" /> </p>
 
 >
