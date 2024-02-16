@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Erp System**
 
-- 🌱 I’m currently learning **React,Mongodb**
-
 - 💬 Ask me about **Web-Development**
 
 
