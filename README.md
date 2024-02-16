@@ -29,5 +29,5 @@ Spotify Playing 🎧
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://open.spotify.com/playlist/4IyFkYRq7do7Da5EMnMSYl?si=91578c66a0a54e81"/>
 
