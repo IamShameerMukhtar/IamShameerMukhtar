@@ -6,7 +6,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
 
-<h4 align="center"><img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" /></h4>
+<h4 align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display: block; margin: 0 auto;" /></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshameermukhar&label=Profile%20views&color=0e75b6&style=flat" alt="iamshameermukhar" /> </p>
 
